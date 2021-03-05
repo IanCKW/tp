@@ -61,12 +61,6 @@ public class PersonBuilder {
         return this;
     }
 
-    /**
-     * Sets the {@code Address} of the {@code Person} that we are building.
-     */
-    public PersonBuilder withAddress(String address) {
-        return this;
-    }
 
     /**
      * Sets the {@code Phone} of the {@code Person} that we are building.
